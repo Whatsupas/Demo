@@ -1,5 +1,6 @@
 # Release Notes
 
+## 2024-09-20
 ### Overview
 This is the initial release of the project. Below is the detailed list of changes and improvements.
 
@@ -14,7 +15,7 @@ This is the initial release of the project. Below is the detailed list of change
 
 ---
 
-## <span style="color:green">2024-09-15</span>
+## 2024-09-15
 ### Overview
 This pre-release version included the foundational setup for API management and basic client authentication mechanisms.
 
