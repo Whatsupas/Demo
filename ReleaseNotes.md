@@ -46,6 +46,188 @@ This is the initial release of the project. Below is the detailed list of change
 - Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
 
 ---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## 2024-09-01
+### Overview
+This is the initial release of the project. Below is the detailed list of changes and improvements.
+
+### New Features
+- Introduced **user authentication** via Azure AD B2C.
+- Added **API key policy** for machine-to-machine communications.
+- Developed the **release notes API** to handle POST, DELETE, and PATCH requests.
+
+### Enhancements
+- Improved the **token encryption mechanism** using client-specific symmetric security keys.
+- Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
 ## Contributors
 - **Developers** - ProsessPilotene
 - **Contact** - demo@demo.no
