@@ -32,12 +32,6 @@ This pre-release version included the foundational setup for API management and 
 - Basic **Azure AD B2C integration** for user sign-in and registration.
 
 ---
-
-## Contributors
-- **Developers** - ProsessPilotene
-- **Contact** - demo@demo.no
-
----
 ## 2024-09-01
 ### Overview
 This is the initial release of the project. Below is the detailed list of changes and improvements.
