@@ -35,7 +35,7 @@ This update introduced several backend improvements and a new property in the AP
     "maxConnections": 100
   }
 }
-
+```
 ---
 ## 2024-09-15
 ### Overview
