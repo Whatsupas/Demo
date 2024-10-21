@@ -1,5 +1,5 @@
 # Release Notes
-## 2024-10-21
+## <span style="color:green">2024-10-21</span>
 
 ### Overview
 This is the initial release of the project. Below is the detailed list of changes and improvements.
@@ -15,7 +15,7 @@ This is the initial release of the project. Below is the detailed list of change
 
 ---
 
-## 2024-09-15
+## <span style="color:green">2024-09-15</span>
 ### Overview
 This pre-release version included the foundational setup for API management and basic client authentication mechanisms.
 
@@ -26,6 +26,5 @@ This pre-release version included the foundational setup for API management and 
 ---
 
 ## Contributors
-- **Developers** - Robertas Tutlys, Navn Navnessen
-- **Contributor Name** - Navn Navnessen
-
+- **Developers** - ProsessPilotene
+- **Contact** - demo@demo.no 
