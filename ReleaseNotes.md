@@ -1,5 +1,4 @@
 # Release Notes
-## <span style="color:green">2024-10-21</span>
 
 ### Overview
 This is the initial release of the project. Below is the detailed list of changes and improvements.
