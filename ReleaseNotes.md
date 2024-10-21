@@ -50,3 +50,10 @@ This is the initial release of the project. Below is the detailed list of change
 ### Enhancements
 - Improved the **token encryption mechanism** using client-specific symmetric security keys.
 - Enhanced the **GUI rendering** for displaying JSON-formatted messages as code blocks.
+
+---
+## Contributors
+- **Developers** - ProsessPilotene
+- **Contact** - demo@demo.no
+
+---
