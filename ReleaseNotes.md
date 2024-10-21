@@ -16,7 +16,7 @@ This update introduced several backend improvements and a new property in the AP
   "clientId": "12345",
   "clientName": "Demo Client",
   "status": "active",
-  "##clientConfig": {
+  "clientConfig": {
     "allowCustomSettings": true,
     "maxConnections": 100
   }
