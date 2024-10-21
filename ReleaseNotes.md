@@ -26,6 +26,6 @@ This pre-release version included the foundational setup for API management and 
 ---
 
 ## Contributors
-- **Your Name** - Robertas Tutlys
+- **Developer** - Robertas Tutlys
 - **Contributor Name** - Navn Navnessen
 
