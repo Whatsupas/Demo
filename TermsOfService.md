@@ -1,4 +1,4 @@
-# Robertas demo Web API Terms of Use
+# Robertas Web API: Terms of use
 
 **Last Updated:** ```2024-10-21```
 
